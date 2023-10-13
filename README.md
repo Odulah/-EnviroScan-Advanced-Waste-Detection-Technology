@@ -1,7 +1,5 @@
 # End-to-end-Waste-Detection-Using-Yolo-v5
 
-Implementation video: https://youtu.be/cr17R0fyVXc?si=DXGcm90BoeZwgCU5
-
 ## Workflows
 
 1. constants
@@ -17,8 +15,7 @@ Implementation video: https://youtu.be/cr17R0fyVXc?si=DXGcm90BoeZwgCU5
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-waste-detection
-```
+https://github.com/Odulah/Waste_detection-using-Yolo-v5-.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
@@ -117,7 +114,7 @@ open up you local host and port
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = demo>>  
 
     ECR_REPOSITORY_NAME = simple-app
 
